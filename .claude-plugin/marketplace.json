@@ -1,0 +1,16 @@
+{
+  "name": "gp-pr-review",
+  "owner": { "name": "khoa-astec" },
+  "metadata": {
+    "description": "Pull request review skill for Claude Code (Laravel + React)",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "gp-pr-review",
+      "source": "./",
+      "description": "Review a pull request for production-grade bugs in Laravel + React code",
+      "version": "0.1.0"
+    }
+  ]
+}

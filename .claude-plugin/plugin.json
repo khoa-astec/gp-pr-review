@@ -1,0 +1,8 @@
+{
+  "name": "gp-pr-review",
+  "version": "0.1.0",
+  "description": "Review a pull request for the bugs that actually reach production in a Laravel + React app: swallowed errors that leave state inconsistent, ignored return values, env() under config cache, copied components missing guards, ordering/race issues, plus syntax checks.",
+  "author": { "name": "khoa-astec" },
+  "repository": "https://github.com/khoa-astec/gp-pr-review",
+  "keywords": ["code-review", "pull-request", "laravel", "react"]
+}
